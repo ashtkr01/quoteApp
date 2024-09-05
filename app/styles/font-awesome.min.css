@@ -115,22 +115,18 @@
 
 .fa-spin {
   animation: fa-spin 2s infinite linear;
-  animation: fa-spin 2s infinite linear;
 }
 
 .fa-pulse {
   animation: fa-spin 1s infinite steps(8);
-  animation: fa-spin 1s infinite steps(8);
 }
 
 @keyframes fa-spin {
   0% {
     transform: rotate(0deg);
-    transform: rotate(0deg);
   }
 
   100% {
-    transform: rotate(359deg);
     transform: rotate(359deg);
   }
 }
@@ -138,11 +134,9 @@
 @keyframes fa-spin {
   0% {
     transform: rotate(0deg);
-    transform: rotate(0deg);
   }
 
   100% {
-    transform: rotate(359deg);
     transform: rotate(359deg);
   }
 }
@@ -150,35 +144,25 @@
 .fa-rotate-90 {
   filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=1);
   transform: rotate(90deg);
-  transform: rotate(90deg);
-  transform: rotate(90deg);
 }
 
 .fa-rotate-180 {
   filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=2);
-  transform: rotate(180deg);
-  transform: rotate(180deg);
   transform: rotate(180deg);
 }
 
 .fa-rotate-270 {
   filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3);
   transform: rotate(270deg);
-  transform: rotate(270deg);
-  transform: rotate(270deg);
 }
 
 .fa-flip-horizontal {
   filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=0, mirror=1);
   transform: scale(-1, 1);
-  transform: scale(-1, 1);
-  transform: scale(-1, 1);
 }
 
 .fa-flip-vertical {
   filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=2, mirror=1);
-  transform: scale(1, -1);
-  transform: scale(1, -1);
   transform: scale(1, -1);
 }
 

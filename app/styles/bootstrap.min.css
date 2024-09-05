@@ -7,7 +7,6 @@
 html {
   font-family: "Open Sans", sans-serif;
   text-size-adjust: 100%;
-  text-size-adjust: 100%;
 }
 
 body {
@@ -115,8 +114,6 @@ figure {
 hr {
   height: 0;
   box-sizing: content-box;
-  box-sizing: content-box;
-  box-sizing: content-box;
 }
 
 pre {
@@ -176,8 +173,6 @@ input {
 input[type="checkbox"],
 input[type="radio"] {
   box-sizing: border-box;
-  box-sizing: border-box;
-  box-sizing: border-box;
   padding: 0;
 }
 
@@ -187,8 +182,6 @@ input[type="number"]::-webkit-outer-spin-button {
 }
 
 input[type="search"] {
-  box-sizing: content-box;
-  box-sizing: content-box;
   box-sizing: content-box;
   appearance: textfield;
 }
@@ -236,7 +229,6 @@ th {
     color: #000 !important;
     text-shadow: none !important;
     background: 0 0 !important;
-    box-shadow: none !important;
     box-shadow: none !important;
   }
 
@@ -1393,14 +1385,10 @@ th {
 
 * {
   box-sizing: border-box;
-  box-sizing: border-box;
-  box-sizing: border-box;
 }
 
 ::after,
 ::before {
-  box-sizing: border-box;
-  box-sizing: border-box;
   box-sizing: border-box;
 }
 
@@ -1475,8 +1463,6 @@ img {
   background-color: #fff;
   border: 1px solid #ddd;
   border-radius: 4px;
-  transition: all 0.2s ease-in-out;
-  transition: all 0.2s ease-in-out;
   transition: all 0.2s ease-in-out;
 }
 
@@ -1960,14 +1946,12 @@ kbd {
   background-color: #333;
   border-radius: 3px;
   box-shadow: inset 0 -1px 0 rgb(0 0 0 / 25%);
-  box-shadow: inset 0 -1px 0 rgb(0 0 0 / 25%);
 }
 
 kbd kbd {
   padding: 0;
   font-size: 100%;
   font-weight: 700;
-  box-shadow: none;
   box-shadow: none;
 }
 
@@ -3275,8 +3259,6 @@ label {
 
 input[type="search"] {
   box-sizing: border-box;
-  box-sizing: border-box;
-  box-sizing: border-box;
 }
 
 input[type="checkbox"],
@@ -3329,7 +3311,6 @@ output {
   border: 1px solid rgb(0 132 180 / 25%);
   border-radius: 4px;
   box-shadow: inset 0 1px 1px rgb(0 0 0 / 7.5%);
-  box-shadow: inset 0 1px 1px rgb(0 0 0 / 7.5%);
   transition:
     border-color ease-in-out 0.15s,
     -webkit-box-shadow ease-in-out 0.15s;
@@ -3344,9 +3325,6 @@ output {
 .form-control:focus {
   border-color: #66afe9;
   outline: 0;
-  box-shadow:
-    inset 0 1px 1px rgb(0 0 0 / 7.5%),
-    0 0 8px rgb(102 175 233 / 60%);
   box-shadow:
     inset 0 1px 1px rgb(0 0 0 / 7.5%),
     0 0 8px rgb(102 175 233 / 60%);
@@ -3650,14 +3628,10 @@ textarea.input-lg {
 .has-success .form-control {
   border-color: #3c763d;
   box-shadow: inset 0 1px 1px rgb(0 0 0 / 7.5%);
-  box-shadow: inset 0 1px 1px rgb(0 0 0 / 7.5%);
 }
 
 .has-success .form-control:focus {
   border-color: #2b542c;
-  box-shadow:
-    inset 0 1px 1px rgb(0 0 0 / 7.5%),
-    0 0 6px #67b168;
   box-shadow:
     inset 0 1px 1px rgb(0 0 0 / 7.5%),
     0 0 6px #67b168;
@@ -3689,14 +3663,10 @@ textarea.input-lg {
 .has-warning .form-control {
   border-color: #8a6d3b;
   box-shadow: inset 0 1px 1px rgb(0 0 0 / 7.5%);
-  box-shadow: inset 0 1px 1px rgb(0 0 0 / 7.5%);
 }
 
 .has-warning .form-control:focus {
   border-color: #66512c;
-  box-shadow:
-    inset 0 1px 1px rgb(0 0 0 / 7.5%),
-    0 0 6px #c0a16b;
   box-shadow:
     inset 0 1px 1px rgb(0 0 0 / 7.5%),
     0 0 6px #c0a16b;
@@ -3728,14 +3698,10 @@ textarea.input-lg {
 .has-error .form-control {
   border-color: #a94442;
   box-shadow: inset 0 1px 1px rgb(0 0 0 / 7.5%);
-  box-shadow: inset 0 1px 1px rgb(0 0 0 / 7.5%);
 }
 
 .has-error .form-control:focus {
   border-color: #843534;
-  box-shadow:
-    inset 0 1px 1px rgb(0 0 0 / 7.5%),
-    0 0 6px #ce8483;
   box-shadow:
     inset 0 1px 1px rgb(0 0 0 / 7.5%),
     0 0 6px #ce8483;
@@ -3883,11 +3849,7 @@ textarea.input-lg {
   white-space: nowrap;
   vertical-align: middle;
   touch-action: manipulation;
-  touch-action: manipulation;
   cursor: pointer;
-  user-select: none;
-  user-select: none;
-  user-select: none;
   user-select: none;
   background-image: none;
   border: 1px solid transparent;
@@ -3917,7 +3879,6 @@ textarea.input-lg {
   background-image: none;
   outline: 0;
   box-shadow: inset 0 3px 5px rgb(0 0 0 / 12.5%);
-  box-shadow: inset 0 3px 5px rgb(0 0 0 / 12.5%);
 }
 
 .btn.disabled,
@@ -3925,7 +3886,6 @@ textarea.input-lg {
 fieldset[disabled] .btn {
   cursor: not-allowed;
   filter: alpha(opacity=65);
-  box-shadow: none;
   box-shadow: none;
   opacity: 0.65;
 }
@@ -4339,7 +4299,6 @@ fieldset[disabled] .btn-danger:hover {
 fieldset[disabled] .btn-link {
   background-color: transparent;
   box-shadow: none;
-  box-shadow: none;
 }
 
 .btn-link,
@@ -4406,8 +4365,6 @@ input[type="submit"].btn-block {
 .fade {
   opacity: 0;
   transition: opacity 0.15s linear;
-  transition: opacity 0.15s linear;
-  transition: opacity 0.15s linear;
 }
 
 .fade.in {
@@ -4435,13 +4392,7 @@ tbody.collapse.in {
   height: 0;
   overflow: hidden;
   transition-timing-function: ease;
-  transition-timing-function: ease;
-  transition-timing-function: ease;
   transition-duration: 0.35s;
-  transition-duration: 0.35s;
-  transition-duration: 0.35s;
-  transition-property: height, visibility;
-  transition-property: height, visibility;
   transition-property: height, visibility;
 }
 
@@ -4481,11 +4432,9 @@ tbody.collapse.in {
   list-style: none;
   background-color: #fff;
   background-clip: padding-box;
-  background-clip: padding-box;
   border: 1px solid #ccc;
   border: 1px solid rgb(0 0 0 / 15%);
   border-radius: 4px;
-  box-shadow: 0 6px 12px rgb(0 0 0 / 17.5%);
   box-shadow: 0 6px 12px rgb(0 0 0 / 17.5%);
 }
 
@@ -4709,11 +4658,9 @@ tbody.collapse.in {
 
 .btn-group.open .dropdown-toggle {
   box-shadow: inset 0 3px 5px rgb(0 0 0 / 12.5%);
-  box-shadow: inset 0 3px 5px rgb(0 0 0 / 12.5%);
 }
 
 .btn-group.open .dropdown-toggle.btn-link {
-  box-shadow: none;
   box-shadow: none;
 }
 
@@ -5260,7 +5207,6 @@ textarea.input-group-sm > .input-group-btn > .btn {
   -webkit-overflow-scrolling: touch;
   border-top: 1px solid transparent;
   box-shadow: inset 0 1px 0 rgb(255 255 255 / 10%);
-  box-shadow: inset 0 1px 0 rgb(255 255 255 / 10%);
 }
 
 .navbar-collapse.in {
@@ -5271,7 +5217,6 @@ textarea.input-group-sm > .input-group-btn > .btn {
   .navbar-collapse {
     width: auto;
     border-top: 0;
-    box-shadow: none;
     box-shadow: none;
   }
 
@@ -5438,7 +5383,6 @@ textarea.input-group-sm > .input-group-btn > .btn {
     background-color: transparent;
     border: 0;
     box-shadow: none;
-    box-shadow: none;
   }
 
   .navbar-nav .open .dropdown-menu .dropdown-header,
@@ -5477,9 +5421,6 @@ textarea.input-group-sm > .input-group-btn > .btn {
   margin: 8px -15px;
   border-top: 1px solid transparent;
   border-bottom: 1px solid transparent;
-  box-shadow:
-    inset 0 1px 0 rgb(255 255 255 / 10%),
-    0 1px 0 rgb(255 255 255 / 10%);
   box-shadow:
     inset 0 1px 0 rgb(255 255 255 / 10%),
     0 1px 0 rgb(255 255 255 / 10%);
@@ -5564,7 +5505,6 @@ textarea.input-group-sm > .input-group-btn > .btn {
     margin-right: 0;
     margin-left: 0;
     border: 0;
-    box-shadow: none;
     box-shadow: none;
   }
 }
@@ -6254,8 +6194,6 @@ a.badge:hover {
   border: 1px solid #ddd;
   border-radius: 4px;
   transition: border 0.2s ease-in-out;
-  transition: border 0.2s ease-in-out;
-  transition: border 0.2s ease-in-out;
 }
 
 .thumbnail a > img,
@@ -6406,7 +6344,6 @@ a.thumbnail:hover {
   background-color: #f5f5f5;
   border-radius: 4px;
   box-shadow: inset 0 1px 2px rgb(0 0 0 / 10%);
-  box-shadow: inset 0 1px 2px rgb(0 0 0 / 10%);
 }
 
 .progress-bar {
@@ -6419,9 +6356,6 @@ a.thumbnail:hover {
   text-align: center;
   background-color: #337ab7;
   box-shadow: inset 0 -1px 0 rgb(0 0 0 / 15%);
-  box-shadow: inset 0 -1px 0 rgb(0 0 0 / 15%);
-  transition: width 0.6s ease;
-  transition: width 0.6s ease;
   transition: width 0.6s ease;
 }
 
@@ -6437,34 +6371,11 @@ a.thumbnail:hover {
     transparent 75%,
     transparent
   );
-  background-image: linear-gradient(
-    45deg,
-    rgb(255 255 255 / 15%) 25%,
-    transparent 25%,
-    transparent 50%,
-    rgb(255 255 255 / 15%) 50%,
-    rgb(255 255 255 / 15%) 75%,
-    transparent 75%,
-    transparent
-  );
-  background-image: linear-gradient(
-    45deg,
-    rgb(255 255 255 / 15%) 25%,
-    transparent 25%,
-    transparent 50%,
-    rgb(255 255 255 / 15%) 50%,
-    rgb(255 255 255 / 15%) 75%,
-    transparent 75%,
-    transparent
-  );
-  background-size: 40px 40px;
   background-size: 40px 40px;
 }
 
 .progress-bar.active,
 .progress.active .progress-bar {
-  animation: progress-bar-stripes 2s linear infinite;
-  animation: progress-bar-stripes 2s linear infinite;
   animation: progress-bar-stripes 2s linear infinite;
 }
 
@@ -6473,26 +6384,6 @@ a.thumbnail:hover {
 }
 
 .progress-striped .progress-bar-success {
-  background-image: linear-gradient(
-    45deg,
-    rgb(255 255 255 / 15%) 25%,
-    transparent 25%,
-    transparent 50%,
-    rgb(255 255 255 / 15%) 50%,
-    rgb(255 255 255 / 15%) 75%,
-    transparent 75%,
-    transparent
-  );
-  background-image: linear-gradient(
-    45deg,
-    rgb(255 255 255 / 15%) 25%,
-    transparent 25%,
-    transparent 50%,
-    rgb(255 255 255 / 15%) 50%,
-    rgb(255 255 255 / 15%) 75%,
-    transparent 75%,
-    transparent
-  );
   background-image: linear-gradient(
     45deg,
     rgb(255 255 255 / 15%) 25%,
@@ -6520,26 +6411,6 @@ a.thumbnail:hover {
     transparent 75%,
     transparent
   );
-  background-image: linear-gradient(
-    45deg,
-    rgb(255 255 255 / 15%) 25%,
-    transparent 25%,
-    transparent 50%,
-    rgb(255 255 255 / 15%) 50%,
-    rgb(255 255 255 / 15%) 75%,
-    transparent 75%,
-    transparent
-  );
-  background-image: linear-gradient(
-    45deg,
-    rgb(255 255 255 / 15%) 25%,
-    transparent 25%,
-    transparent 50%,
-    rgb(255 255 255 / 15%) 50%,
-    rgb(255 255 255 / 15%) 75%,
-    transparent 75%,
-    transparent
-  );
 }
 
 .progress-bar-warning {
@@ -6557,26 +6428,6 @@ a.thumbnail:hover {
     transparent 75%,
     transparent
   );
-  background-image: linear-gradient(
-    45deg,
-    rgb(255 255 255 / 15%) 25%,
-    transparent 25%,
-    transparent 50%,
-    rgb(255 255 255 / 15%) 50%,
-    rgb(255 255 255 / 15%) 75%,
-    transparent 75%,
-    transparent
-  );
-  background-image: linear-gradient(
-    45deg,
-    rgb(255 255 255 / 15%) 25%,
-    transparent 25%,
-    transparent 50%,
-    rgb(255 255 255 / 15%) 50%,
-    rgb(255 255 255 / 15%) 75%,
-    transparent 75%,
-    transparent
-  );
 }
 
 .progress-bar-danger {
@@ -6584,26 +6435,6 @@ a.thumbnail:hover {
 }
 
 .progress-striped .progress-bar-danger {
-  background-image: linear-gradient(
-    45deg,
-    rgb(255 255 255 / 15%) 25%,
-    transparent 25%,
-    transparent 50%,
-    rgb(255 255 255 / 15%) 50%,
-    rgb(255 255 255 / 15%) 75%,
-    transparent 75%,
-    transparent
-  );
-  background-image: linear-gradient(
-    45deg,
-    rgb(255 255 255 / 15%) 25%,
-    transparent 25%,
-    transparent 50%,
-    rgb(255 255 255 / 15%) 50%,
-    rgb(255 255 255 / 15%) 75%,
-    transparent 75%,
-    transparent
-  );
   background-image: linear-gradient(
     45deg,
     rgb(255 255 255 / 15%) 25%,
@@ -6924,7 +6755,6 @@ button.list-group-item-danger.active:hover {
   background-color: #fff;
   border: 1px solid transparent;
   border-radius: 4px;
-  box-shadow: 0 1px 1px rgb(0 0 0 / 5%);
   box-shadow: 0 1px 1px rgb(0 0 0 / 5%);
 }
 
@@ -7476,7 +7306,6 @@ button.list-group-item-danger.active:hover {
   border: 1px solid #e3e3e3;
   border-radius: 4px;
   box-shadow: inset 0 1px 1px rgb(0 0 0 / 5%);
-  box-shadow: inset 0 1px 1px rgb(0 0 0 / 5%);
 }
 
 .well blockquote {
@@ -7541,15 +7370,9 @@ button.close {
   transition: -o-transform 0.3s ease-out;
   transition: transform 0.3s ease-out;
   transform: translate(0, -25%);
-  transform: translate(0, -25%);
-  transform: translate(0, -25%);
-  transform: translate(0, -25%);
 }
 
 .modal.in .modal-dialog {
-  transform: translate(0, 0);
-  transform: translate(0, 0);
-  transform: translate(0, 0);
   transform: translate(0, 0);
 }
 
@@ -7567,12 +7390,10 @@ button.close {
   position: relative;
   background-color: #fff;
   background-clip: padding-box;
-  background-clip: padding-box;
   border: 1px solid #999;
   border: 1px solid rgb(0 0 0 / 20%);
   border-radius: 6px;
   outline: 0;
-  box-shadow: 0 3px 9px rgb(0 0 0 / 50%);
   box-shadow: 0 3px 9px rgb(0 0 0 / 50%);
 }
 
@@ -7646,7 +7467,6 @@ button.close {
   }
 
   .modal-content {
-    box-shadow: 0 5px 15px rgb(0 0 0 / 50%);
     box-shadow: 0 5px 15px rgb(0 0 0 / 50%);
   }
 
@@ -7816,11 +7636,9 @@ button.close {
   white-space: normal;
   background-color: #fff;
   background-clip: padding-box;
-  background-clip: padding-box;
   border: 1px solid #ccc;
   border: 1px solid rgb(0 0 0 / 20%);
   border-radius: 6px;
-  box-shadow: 0 5px 10px rgb(0 0 0 / 20%);
   box-shadow: 0 5px 10px rgb(0 0 0 / 20%);
   line-break: auto;
 }
@@ -7955,8 +7773,6 @@ button.close {
   position: relative;
   display: none;
   transition: 0.6s ease-in-out left;
-  transition: 0.6s ease-in-out left;
-  transition: 0.6s ease-in-out left;
 }
 
 .carousel-inner > .item > a > img,
@@ -7970,8 +7786,6 @@ button.close {
     transition: -o-transform 0.6s ease-in-out;
     transition: transform 0.6s ease-in-out;
     backface-visibility: hidden;
-    backface-visibility: hidden;
-    perspective: 1000px;
     perspective: 1000px;
   }
 
@@ -7979,13 +7793,11 @@ button.close {
   .carousel-inner > .item.next {
     left: 0;
     transform: translate3d(100%, 0, 0);
-    transform: translate3d(100%, 0, 0);
   }
 
   .carousel-inner > .item.active.left,
   .carousel-inner > .item.prev {
     left: 0;
-    transform: translate3d(-100%, 0, 0);
     transform: translate3d(-100%, 0, 0);
   }
 
@@ -7993,7 +7805,6 @@ button.close {
   .carousel-inner > .item.next.left,
   .carousel-inner > .item.prev.right {
     left: 0;
-    transform: translate3d(0, 0, 0);
     transform: translate3d(0, 0, 0);
   }
 }
@@ -8057,11 +7868,6 @@ button.close {
     rgb(0 0 0 / 50%) 0,
     rgb(0 0 0 / 0.01%) 100%
   );
-  background-image: linear-gradient(
-    left,
-    rgb(0 0 0 / 50%) 0,
-    rgb(0 0 0 / 0.01%) 100%
-  );
   background-image: -webkit-gradient(
     linear,
     left top,
@@ -8081,11 +7887,6 @@ button.close {
 .carousel-control.right {
   right: 0;
   left: auto;
-  background-image: linear-gradient(
-    left,
-    rgb(0 0 0 / 0.01%) 0,
-    rgb(0 0 0 / 50%) 100%
-  );
   background-image: linear-gradient(
     left,
     rgb(0 0 0 / 0.01%) 0,
@@ -8605,13 +8406,11 @@ a.secbox img {
   width: 72px;
   border: 2px solid #fff;
   box-sizing: border-box;
-  box-sizing: border-box;
   color: #fff;
   float: left;
 }
 
 a.secbox h2 {
-  padding: 10px;
   font-size: 18px;
   line-height: 21px;
   font-weight: bold;
@@ -8658,9 +8457,6 @@ span.big-txt {
   border: 1px solid rgb(0 132 180 / 25%);
   resize: none;
   color: #0084b4;
-  transition: all 0.5s ease-in-out;
-  transition: all 0.5s ease-in-out;
-  transition: all 0.5s ease-in-out;
   transition: all 0.5s ease-in-out;
 }
 
@@ -8783,7 +8579,6 @@ a.f-box img {
   height: 52px;
   width: 52px;
   border: 2px solid #fff;
-  box-sizing: border-box;
   box-sizing: border-box;
   color: #fff;
   float: left;
