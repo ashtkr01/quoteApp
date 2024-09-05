@@ -8469,7 +8469,7 @@ span.big-txt {
 
 .t-bg {
   height: 96px;
-  background: url("../img/600x200.jpg") no-repeat;
+  background-image: url("/images/600x200.jpg");
   background-size: cover;
 }
 
