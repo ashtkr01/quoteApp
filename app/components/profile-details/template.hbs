@@ -4,23 +4,23 @@
     <div class="form-group">
         <LinkTo @route="user" class="secbox">
         <img src="images/gravatar.png" alt="avatar" />
-        <h2>John</h2>
-        <p>@john</p>
+        <h2>{{this.args.user.username}}</h2>
+        <p>@{{this.args.user.username}}</p>
         </LinkTo>
     </div>
     <div class="form-group">
       <div class="row mrgn-m">
         <div class="col-sm-4">
           <span class="small-txt">quotes</span>
-          <span class="big-txt">225</span>
+          <span class="big-txt">{{this.args.user.numberOfQuotes}}</span>
         </div>
         <div class="col-sm-4">
           <span class="small-txt">following</span>
-          <span class="big-txt">45</span>
+          <span class="big-txt">{{this.args.user.numberOfFollowing}}</span>
         </div>
         <div class="col-sm-4">
           <span class="small-txt">followers</span>
-          <span class="big-txt">455</span>
+          <span class="big-txt">{{this.args.user.numberOfFollowers}}</span>
         </div>
       </div>
     </div>

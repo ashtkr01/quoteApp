@@ -1,0 +1,60 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "john_doe",
+      "numberOfQuotes": 12,
+      "numberOfFollowers": 45,
+      "numberOfFollowing": 30
+    },
+    {
+      "id": "2",
+      "username": "jane_smith",
+      "numberOfQuotes": 8,
+      "numberOfFollowers": 100,
+      "numberOfFollowing": 50
+    },
+    {
+      "id": "3",
+      "username": "michael_j",
+      "numberOfQuotes": 20,
+      "numberOfFollowers": 65,
+      "numberOfFollowing": 80
+    },
+    {
+      "id": "4",
+      "username": "linda_b",
+      "numberOfQuotes": 15,
+      "numberOfFollowers": 72,
+      "numberOfFollowing": 60
+    },
+    {
+      "id": "5",
+      "username": "chris_p",
+      "numberOfQuotes": 10,
+      "numberOfFollowers": 90,
+      "numberOfFollowing": 45
+    },
+    {
+      "id": "6",
+      "username": "emma_k",
+      "numberOfQuotes": 5,
+      "numberOfFollowers": 40,
+      "numberOfFollowing": 20
+    },
+    {
+      "id": "7",
+      "username": "will_s",
+      "numberOfQuotes": 25,
+      "numberOfFollowers": 110,
+      "numberOfFollowing": 95
+    },
+    {
+      "id": "8",
+      "username": "olivia_m",
+      "numberOfQuotes": 18,
+      "numberOfFollowers": 55,
+      "numberOfFollowing": 35
+    }
+  ]
+}

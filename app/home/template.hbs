@@ -1,12 +1,20 @@
- {{!--main container --}}
-        <div class="container-fluid">
-            <div class="container">
-                <div class="col-sm-8">
-                  {{quotes-update}}
-                  {{quotes-list}}
-                </div>
-                {{!-- {{profile-details}} --}}
-                <ProfileDetails/>
-                </div>
-        </div>
-{{!--/main container --}}
+{{!main container }}
+<div class="container-fluid">
+  <div class="container">
+    <div class="col-sm-8">
+      {{quotes-update}}
+      {{quotes-list}}
+    </div>
+    {{!-- {{profile-details}} --}}
+    <ProfileDetails @user={{this.model}} />
+    {{!-- <h1>Ashi</h1> --}}
+    {{!-- <h2>{{this.model}}</h2> --}}
+    {{!-- {{log this.model.username}} --}}
+    {{!-- <ul>
+      {{#each this.model as |user|}}
+        <li>{{user.username}} -- {{user.numberOfQuotes}}</li>
+      {{/each}}
+    </ul> --}}
+  </div>
+</div>
+{{!/main container }}
